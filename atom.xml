@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LROYLE</title>
+  
+  <subtitle>行善多积德，读书为修身！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.huijia.love/"/>
+  <updated>2018-12-20T23:17:54.000Z</updated>
+  <id>http://www.huijia.love/</id>
+  
+  <author>
+    <name>lroyle</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>又荒废了一天</title>
+    <link href="http://www.huijia.love/2019/10/07/2018/2018_12_20%E5%8F%88%E8%8D%92%E5%BA%9F%E4%BA%86%E4%B8%80%E5%A4%A9/"/>
+    <id>http://www.huijia.love/2019/10/07/2018/2018_12_20又荒废了一天/</id>
+    <published>2019-10-07T06:07:16.671Z</published>
+    <updated>2018-12-20T23:17:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天早上还蛮早出门的，至少比这前的早吧，7点半出门，她做的早餐，面条。骑电动车送我到凌吴敦。七点四十五上的34路，车还蛮空，有座位。<br>到公司已经九点十一分了。还算好，没迟到多久，以前都是九点四十多到公司，基本上迟到一个小时左右，不过自己出门也晚，自己懒吧，不想起床，而且在家里弄头发，吃饭，都已经八点多了。其实也是起得蛮早的，只是在家是弄得久。<br>今天感觉什么事也没做，弄了一天的翻墙软件，也没翻墙成功。早上都别人AS3的一些小问题。下行还在搞那个翻墙的，中午的时候，旁边的刘警花被老板说了一顿，也不知道说的啥，出来就哭了。听她的魏相成聊的时候，发现好像是因为老板不给她相应的提成，这也不至于哭呀。也许是付出的努力没有得到相应的回报的原因吧。怪不得她不做《音乐课件》的呀。懒得管别人的事，我继续研究我的翻墙，但是依然没有连接上，我就看了会ios的教程，最基础的，讲的是XCode的使用及一些界面相关的内容。看了一会，林威过来了，问我一些AS3上的问题，是数学课件的，我给他讲了一下。<br>这一天很快就过完了，自己没有什么收获，长此以往这样下去，自己怎么办。不知道自己想做些什么？想学好画画，自己又没有破釜沉舟的勇气。没有恒心去坚持并且努力的去画，不愿意每天去练习。只想着某一天自己成为大神，或者偷用别人的作品，给自己心理安慰。其实自己什么也没有做，也没做相应的努力。但是有时看见别人优秀的画作，心里就羡慕。要是自己能画出这样的作品来该有多好啊，但是自己又画不出来，只好干看，却不知道别人为之付出了怎样的努力。<br>看着前端的工资高，自己又想学前端，但是前端内容多，自己又没有为之做相应的计划，就像当初想学iOS的时候一样，装好了黑苹果系统，手机也买了，但是没有做相应的努力，也没有坚持下来，到现在，什么也不会，还站在iOS开发的门外。感叹别人的工资高，然后比自己后入门的人早已登上了iOS工程师的大门，有的已经做得风声水起。<br>想想自己这些年的过往，感觉一无用处。自己还不抓紧时间，自己真的可悲…</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天早上还蛮早出门的，至少比这前的早吧，7点半出门，她做的早餐，面条。骑电动车送我到凌吴敦。七点四十五上的34路，车还蛮空，有座位。&lt;br&gt;到公司已经九点十一分了。还算好，没迟到多久，以前都是九点四十多到公司，基本上迟到一个小时左右，不过自己出门也晚，自己懒吧，不想起床，而
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日志" scheme="http://www.huijia.love/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>youtube上传视频的一些技巧</title>
+    <link href="http://www.huijia.love/2019/07/15/2019/13_youtube%E4%B8%8A%E4%BC%A0%E8%A7%86%E9%A2%91%E7%9A%84%E4%B8%80%E4%BA%9B%E6%8A%80%E5%B7%A7/"/>
+    <id>http://www.huijia.love/2019/07/15/2019/13_youtube上传视频的一些技巧/</id>
+    <published>2019-07-15T00:14:07.000Z</published>
+    <updated>2019-07-15T00:15:02.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="自媒体" scheme="http://www.huijia.love/tags/%E8%87%AA%E5%AA%92%E4%BD%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Unity中的脚本</title>
+    <link href="http://www.huijia.love/2019/07/12/2019/12_Unity%E4%B8%AD%E7%9A%84%E8%84%9A%E6%9C%AC01/"/>
+    <id>http://www.huijia.love/2019/07/12/2019/12_Unity中的脚本01/</id>
+    <published>2019-07-12T07:25:00.000Z</published>
+    <updated>2019-07-13T13:59:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>不求甚解的态度。<br>有些东西没理解也没关系，先去写代码。<br>第一次没看懂没关系，过段时间再回头看第二次，第三次，自然就会理解了。</p><ul><li><p>自己模仿，效果要一样</p></li><li><p><strong>自己一定要独立做一遍</strong></p></li><li><p>Awake 方法：加载场景时运行：Awake方法运行在所有Start方法之前</p></li><li><p>Start 方法：游戏场景加载时被调用。（游戏场景初始化的代码写在这里）</p><ul><li>Start方法是在第一次调用Update或FixedUpdate方法之前被调用</li></ul></li><li><p>Update方法：第一帧渲染之前被调用，（除了物理部分的代码，其它大部分代码写在这里）</p></li><li><p>FixedUpdate方法：在固定的物理时间步调调用一次。（基本物理行为的代码在这里写）</p></li></ul><p>不要在构造函数中初始化任何变量，要用Awake或Start方法来实现。</p><h3 id="Unity脚本的基本语法"><a href="#Unity脚本的基本语法" class="headerlink" title="Unity脚本的基本语法"></a>Unity脚本的基本语法</h3><ol><li>物体绕y轴旋转</li></ol><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">using System.Collections;                       // 引入系统包</span><br><span class="line">using System.Collections.Generic;</span><br><span class="line">using UnityEngine;                              //</span><br><span class="line"></span><br><span class="line">public <span class="class"><span class="keyword">class</span> <span class="title">RotationCube</span> :</span> MonoBehaviour       // 声明类</span><br><span class="line">&#123;</span><br><span class="line">    // Update <span class="keyword">is</span> called once per frame</span><br><span class="line">    void Update()</span><br><span class="line">    &#123;</span><br><span class="line">        // Rotate 中的值 分别是 x,y,z轴</span><br><span class="line">        this.transform.Rotate(<span class="number">0</span>,<span class="number">5</span>,<span class="number">0</span>);  // 绕 y 轴放置<span class="number">5</span>度</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><ol start="2"><li>物体第帧移动一个单位</li></ol><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">using System.Collections;</span><br><span class="line">using System.Collections.Generic;</span><br><span class="line">using UnityEngine;</span><br><span class="line"></span><br><span class="line">public <span class="class"><span class="keyword">class</span> <span class="title">MovingCube</span> :</span> MonoBehaviour</span><br><span class="line">&#123;</span><br><span class="line"></span><br><span class="line">    // Update <span class="keyword">is</span> called once per frame</span><br><span class="line">    void Update()</span><br><span class="line">    &#123;</span><br><span class="line">        this.transform.Translate(<span class="number">0</span>,<span class="number">0</span>,<span class="number">1</span>);        // 实现物体每帧向前移动一个单位长度</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><ol start="3"><li>记录时间 </li></ol><p>Unity中记录时间需要用到Time类<br>deltaTime() 指从最近一次调用Update或者FixedUpdate方法到现在的时间</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">using System.Collections;</span><br><span class="line">using System.Collections.Generic;</span><br><span class="line">using UnityEngine;</span><br><span class="line"></span><br><span class="line">public <span class="class"><span class="keyword">class</span> <span class="title">SetTime</span> :</span> MonoBehaviour</span><br><span class="line">&#123;</span><br><span class="line">    void Update()</span><br><span class="line">    &#123;</span><br><span class="line">        this.transform.Rotate(<span class="number">0</span>,<span class="number">10</span> * Time.deltaTime,<span class="number">0</span>);</span><br><span class="line">        this.transform.Translate(<span class="number">1</span> * Time.deltaTime,<span class="number">0</span>,<span class="number">0</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><ol start="4"><li>刚体的移动</li></ol><p>刚体的移动写在 FixedUpdate方法里面，在FixedUpdate方法里面，如果想每秒增加或减少一个值，需要乘以Time.fixedDeltaTime.</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">using System.Collections;</span><br><span class="line">using System.Collections.Generic;</span><br><span class="line">using UnityEngine;</span><br><span class="line"></span><br><span class="line">public <span class="class"><span class="keyword">class</span> <span class="title">RigidbodyMoving</span> :</span> MonoBehaviour</span><br><span class="line">&#123;</span><br><span class="line">    public GameObject gameObject;</span><br><span class="line"></span><br><span class="line">    void FixedUpdate()</span><br><span class="line">    &#123;</span><br><span class="line">        Vector3 te = gameObject.GetComponent&lt;Rigidbody&gt;().transform.position;   // 获取刚体的位置坐标</span><br><span class="line">        te.y += <span class="number">5</span> * Time.fixedDeltaTime;                                        // 刚体沿y轴每秒上升<span class="number">5</span>个单位</span><br><span class="line">        gameObject.GetComponent&lt;Rigidbody&gt;().transform.position = te;           // 设置刚体的位置</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h4 id="访问其它游戏对象"><a href="#访问其它游戏对象" class="headerlink" title="访问其它游戏对象"></a>访问其它游戏对象</h4><ol><li>通过属性查看器指定参数</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;不求甚解的态度。&lt;br&gt;有些东西没理解也没关系，先去写代码。&lt;br&gt;第一次没看懂没关系，过段时间再回头看第二次，第三次，自然就会理解了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;自己模仿，效果要一样&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;自己一定要独立做一遍&lt;/stro
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Unity" scheme="http://www.huijia.love/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Unity使用TUIO协议接入雷达</title>
+    <link href="http://www.huijia.love/2019/06/27/2019/11_Unity%E4%BD%BF%E7%94%A8TUIO%E5%8D%8F%E8%AE%AE%E6%8E%A5%E5%85%A5%E9%9B%B7%E8%BE%BE/"/>
+    <id>http://www.huijia.love/2019/06/27/2019/11_Unity使用TUIO协议接入雷达/</id>
+    <published>2019-06-26T16:34:25.000Z</published>
+    <updated>2019-06-28T16:52:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/ldy597321444/article/details/83998428" target="_blank" rel="noopener">雷达 TUIO Unity 教程</a></p><p><a href="https://www.cnblogs.com/Zackzhang/p/10662078.html" target="_blank" rel="noopener">Unity使用TUIO协议接入雷达</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/ldy597321444/article/details/83998428&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;雷达 TUIO Unity 教程&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=
+      
+    
+    </summary>
+    
+    
+    
+      <category term="unity" scheme="http://www.huijia.love/tags/unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图片素材网站</title>
+    <link href="http://www.huijia.love/2019/06/26/2019/10_%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90%E7%BD%91%E7%AB%99/"/>
+    <id>http://www.huijia.love/2019/06/26/2019/10_图片素材网站/</id>
+    <published>2019-06-26T04:44:37.000Z</published>
+    <updated>2019-06-26T16:33:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="国外网站"><a href="#国外网站" class="headerlink" title="国外网站"></a>国外网站</h3><p><a href="https://librestock.com/" target="_blank" rel="noopener">LIBRESTOCK</a><br>Libre Stock 汇聚了国外43个免费图片网站资源，仅支持英文搜索</p><p><a href="https://www.pexels.com/" target="_blank" rel="noopener">PEXELS</a><br>Pexels 是著名的免费图片平台，筛选功能丰富，多种尺寸下载，图片质量高</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;国外网站&quot;&gt;&lt;a href=&quot;#国外网站&quot; class=&quot;headerlink&quot; title=&quot;国外网站&quot;&gt;&lt;/a&gt;国外网站&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://librestock.com/&quot; target=&quot;_blank&quot; rel=&quot;noopene
+      
+    
+    </summary>
+    
+    
+    
+      <category term="设计素材" scheme="http://www.huijia.love/tags/%E8%AE%BE%E8%AE%A1%E7%B4%A0%E6%9D%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不要逼我</title>
+    <link href="http://www.huijia.love/2019/03/22/2019/09_%E4%B8%8D%E8%A6%81%E9%80%BC%E6%88%91/"/>
+    <id>http://www.huijia.love/2019/03/22/2019/09_不要逼我/</id>
+    <published>2019-03-21T22:26:34.000Z</published>
+    <updated>2019-03-21T22:43:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天早上她和她爸爸去她们所说的一个妇幼保健院建档，在车上她们估计在谈我工作的事。她的爸爸一直想让我出来单干，说有什么学校的关系，又是什么教研的。她跟我讲，让我到时候去找她爸爸，我敷衍了一下，说好。</p><p>从小到大，人们都是按照父母的意愿去学习，生活。没有自己的自我意识，被父母安排读小学，初中，高中，继而上大学，甚至安排工作，结婚对象，生子。一生就这样被安排着，没有自己的权力。<br>她就是这样的人，上学的时候谈了个朋友，别人从云南跑到武汉来工作，她父亲说别人太远了，赚的钱又少，以后生活压力大，她就放弃了，还说别人充她爱她五年，想想就好笑。这样对待感情，还好说出口。<br>现在，她父亲跟她说要我自己创业，我不想创业，她就说我没用。人真是个奇怪的动物。我也是眼瞎，居然看上这个破烂。后悔不以。她父亲放个屁，她都听，我说的话跟屁都不如。真是心累。<br>我现在每天都不想回来。<br>有时候再想，自己为什么要从北京回来，还被人看不起。之前的工作那么自在，以前那个春风得意的我变成了现在脾气不好的我，时常会感到烦躁。<br>人还是应该为自己而活。我一直深信这一点。我妈妈的安排我都没听，你们算个什么东西。<br>彼此以后，每天五点起床，<br>画一个半小时的画，<br>再开始做饭，<br>每日坚持<br>我要转向美术了，不想给自己留下遗憾！<br>在爸爸有生之年，给他画幅画，<br>给妈妈画峿画，要爸爸参与<br>把家里的全家福再重新画一次。<br>我要成为自由职业，不想开公司，<br>如果实在过不下去了，我就离开。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨天早上她和她爸爸去她们所说的一个妇幼保健院建档，在车上她们估计在谈我工作的事。她的爸爸一直想让我出来单干，说有什么学校的关系，又是什么教研的。她跟我讲，让我到时候去找她爸爸，我敷衍了一下，说好。&lt;/p&gt;
+&lt;p&gt;从小到大，人们都是按照父母的意愿去学习，生活。没有自己的自我意
+      
+    
+    </summary>
+    
+    
+    
+      <category term="随笔" scheme="http://www.huijia.love/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我退步了好多</title>
+    <link href="http://www.huijia.love/2019/03/05/2019/08%E6%88%91%E9%80%80%E6%AD%A5%E4%BA%86%E5%A5%BD%E5%A4%9A/"/>
+    <id>http://www.huijia.love/2019/03/05/2019/08我退步了好多/</id>
+    <published>2019-03-05T14:47:27.000Z</published>
+    <updated>2019-03-18T13:59:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>刚刚用PS画了下结构素描，发现自己连型都画不准，自己退步好大。这说明无论做什么，还是需要练习，不能长时间不练习。</p><p>之前花那么大的精力去收集资料，但是都在硬盘里睡觉。</p><p>绘画流程</p><ul><li>大量的素描技法</li><li>结构素描，并记忆</li><li>时常的速写</li><li>默写</li><li>然后再开始用手绘板</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;刚刚用PS画了下结构素描，发现自己连型都画不准，自己退步好大。这说明无论做什么，还是需要练习，不能长时间不练习。&lt;/p&gt;
+&lt;p&gt;之前花那么大的精力去收集资料，但是都在硬盘里睡觉。&lt;/p&gt;
+&lt;p&gt;绘画流程&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大量的素描技法&lt;/li&gt;
+&lt;li&gt;结构素描，
+      
+    
+    </summary>
+    
+    
+    
+      <category term="随笔" scheme="http://www.huijia.love/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我看着她就烦</title>
+    <link href="http://www.huijia.love/2019/02/24/2019/07_%E6%88%91%E7%9C%8B%E7%9D%80%E5%A5%B9%E5%B0%B1%E7%83%A6/"/>
+    <id>http://www.huijia.love/2019/02/24/2019/07_我看着她就烦/</id>
+    <published>2019-02-24T15:42:06.000Z</published>
+    <updated>2019-02-24T15:48:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>随着时间的推移，相处时间久了，越发觉得这个人太假，做什么事都具备欺骗性。越来越后悔自己回武汉，不该放弃北京的生活。<br>早上和爸爸讨论装修的问题，她东插一句西插一句的，不为我着想，反而觉得我没钱，我没钱为什么要选择和我在一起，还和我结婚，只因为我姓刘？我想她们家的人应该是因为我姓刘，而她们家没有儿子，所以才会同意我和她结婚的吧。要不然，我这样对她她都能忍。要是我早就一刀两断了。我现在是越看她越烦。我已经不想和她结婚了，我好后悔。我该加强自身能力的建设，积累财富，早点离开她以及她的家人。我已经受够了她们家的人了。<br>中午吃饭，还把一个鱼尾巴和鱼骨夹给我爸爸，我这找的是尼玛什么人啊。好气！越看她越烦。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;随着时间的推移，相处时间久了，越发觉得这个人太假，做什么事都具备欺骗性。越来越后悔自己回武汉，不该放弃北京的生活。&lt;br&gt;早上和爸爸讨论装修的问题，她东插一句西插一句的，不为我着想，反而觉得我没钱，我没钱为什么要选择和我在一起，还和我结婚，只因为我姓刘？我想她们家的人应该是
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日志" scheme="http://www.huijia.love/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019设计学习计划及安排</title>
+    <link href="http://www.huijia.love/2019/01/29/2019/06_2019%E8%AE%BE%E8%AE%A1%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%E5%8F%8A%E5%AE%89%E6%8E%92/"/>
+    <id>http://www.huijia.love/2019/01/29/2019/06_2019设计学习计划及安排/</id>
+    <published>2019-01-28T22:53:26.000Z</published>
+    <updated>2019-01-28T23:08:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="一、基础学习阶段"><a href="#一、基础学习阶段" class="headerlink" title="一、基础学习阶段"></a>一、基础学习阶段</h3><p>从零开始，回归自我</p><ul><li><ol><li>PS&amp;AI软件设计技巧   —— 看虎课网的视频</li></ol></li><li><ol start="2"><li>Sketch软件设计技巧  —— 看虎课网的视频</li></ol></li><li><ol start="3"><li>小图标设计基础和技巧  —— 先看视频，跟着教程做，然后大师的临摹优秀的作品</li></ol></li><li><ol start="4"><li>灵感搜寻技巧与素材整理大法</li></ol></li><li><ol start="5"><li>如何简单的运用色彩     —— 先看虎课网的视频，然后再看相关理论书箱，最后再实践</li></ol></li><li><ol start="6"><li>配图，让设计更上一层楼</li></ol></li></ul><h3 id="二、设计入门与网页设计技巧阶段"><a href="#二、设计入门与网页设计技巧阶段" class="headerlink" title="二、设计入门与网页设计技巧阶段"></a>二、设计入门与网页设计技巧阶段</h3><ul><li><ol start="7"><li>网页设计基础理论      —— 看虎课网视频，同时看理论书箱，然后根据理论书箱上的知识云实践</li></ol></li><li><ol start="8"><li>后台页面的设计技巧     —— 同上</li></ol></li><li><ol start="9"><li>视觉规范与栅格系统的运用  —— 看理论书箱去实践</li></ol></li><li><ol start="10"><li>网页中的运营视觉设计</li></ol></li><li><ol start="11"><li>网页切图技巧与字体图标的设计方法</li></ol></li></ul><h3 id="三、设计流程全面剖析阶段"><a href="#三、设计流程全面剖析阶段" class="headerlink" title="三、设计流程全面剖析阶段"></a>三、设计流程全面剖析阶段</h3><ul><li><ol start="12"><li>解析App设计的流程        —— 看虎课网上的专业讲解，然后自己云尝试</li></ol></li><li><ol start="13"><li>快速入手需求分析</li></ol></li><li><ol start="14"><li>原型图的制作与Adobe XD设计入门       —— 看虎课网的视频</li></ol></li><li><ol start="15"><li>iOS App设计基础</li></ol></li><li><ol start="16"><li>iOS App设计基础与视觉规范的制作技巧</li></ol></li><li><ol start="17"><li>快速搞定iOS的切图与标注</li></ol></li><li><ol start="18"><li>安卓的设计基础</li></ol></li><li><ol start="19"><li>引导页的设计</li></ol></li><li><ol start="20"><li>iOS与安卓的启动图标设计技巧</li></ol></li><li><ol start="21"><li>Web App、H5、小程序的设计技巧</li></ol></li></ul><h3 id="四、动效与职业技能提升阶段"><a href="#四、动效与职业技能提升阶段" class="headerlink" title="四、动效与职业技能提升阶段"></a>四、动效与职业技能提升阶段</h3><ul><li><ol start="22"><li>AE交互动效基础</li></ol></li><li><ol start="23"><li>Principle 动效实操</li></ol></li><li><ol start="24"><li>ProtoPie交互动效基础与实操</li></ol></li><li><ol start="25"><li>UI中的插画技巧</li></ol></li></ul><h3 id="五、提升阶段"><a href="#五、提升阶段" class="headerlink" title="五、提升阶段"></a>五、提升阶段</h3><ul><li><ol start="26"><li>玩转dribbble</li></ol></li><li><ol start="27"><li>产品包装的技巧与方法</li></ol></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;一、基础学习阶段&quot;&gt;&lt;a href=&quot;#一、基础学习阶段&quot; class=&quot;headerlink&quot; title=&quot;一、基础学习阶段&quot;&gt;&lt;/a&gt;一、基础学习阶段&lt;/h3&gt;&lt;p&gt;从零开始，回归自我&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;PS&amp;amp;AI软件设计技
+      
+    
+    </summary>
+    
+    
+      <category term="UI" scheme="http://www.huijia.love/categories/UI/"/>
+    
+    
+      <category term="自学" scheme="http://www.huijia.love/tags/%E8%87%AA%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不会写作的你正在失去职场竞争力</title>
+    <link href="http://www.huijia.love/2019/01/15/2019/05_%E4%B8%8D%E4%BC%9A%E5%86%99%E4%BD%9C%E7%9A%84%E4%BD%A0%E6%AD%A3%E5%9C%A8%E5%A4%B1%E5%8E%BB%E8%81%8C%E5%9C%BA%E7%AB%9E%E4%BA%89%E5%8A%9B/"/>
+    <id>http://www.huijia.love/2019/01/15/2019/05_不会写作的你正在失去职场竞争力/</id>
+    <published>2019-01-15T14:47:19.000Z</published>
+    <updated>2019-01-15T23:29:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在这个时代，一个人能否成功实现逆袭，获得影响力和商业价值，在我看来，都绕不开——写作。<br>这年头，会说的人很多，能写的人太少。而在互联网时代，写作表达已经上升成为每一个职场人的“基础技能”，甚至“核心技能”。不会写作的人，正在失去职场竞争力，无法冲破上升的天花板。</p><p>写作是建立专属于自己的流量池和构建话语权最好的方式。</p><p>大多数人职场人有以下困惑</p><ul><li>钱赚得不够多：</li></ul><p>落水太低，买房太贵，买车太贵，买包太贵，简单来说，理想很丰满，现实很骨感。</p><ul><li>职场地位不稳：</li></ul><p>没有行业江湖地位，随时都有可能被炒掉、被调网，跳槽也跳不出一个好身份。</p><ul><li>才华无人赏识：</li></ul><p>能力很强，业务很牛，觉得上司或者老板很蠢，自己的价值一直被低估，自己是千里马，但是找不到伯乐。</p><ul><li>社交圈子不高级</li></ul><p>工作场合的圈子有限，没有机会扩展社交圈，或者没有途径进入更牛的圈子。</p><p>以上四个问题，基本可以涵盖90%以上的职场问题。其本质是职场影响力不行。</p><p>在没有资金、没有资源、没有人脉的情况下，写作，是提升职场影响力成本最低、效果最好的方式，没有之一。</p><p>在这个时代，在互联网上写作，其实是在经营这个互联网时代全新的社交方式。</p><p>在微信这个平台，再小的个体也有自己的品牌。</p><p>自问下自己，在这个蓬勃发展的互联网社交时代，社交成本如此之低的美好时代，我们用心经营了自己的人肪和个人品牌了吗？</p><p>在互联网上写作的人，会利用互联网的技术资源优势，迅速为自己的职场和个人品牌赋能，他们的收入、人脉、影响力，都会呈指数级增长。</p><p>然后，不会写作的人，虽然他们很努力，但如果没有找到其他在互联网平台上表达自己的方式，仍然按照舒缓的方式精进自己，在职场上的成长可能会是相对缓慢的、线性的。他们其实错过了互联网时代给每个人的最大红利，很可惜。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在这个时代，一个人能否成功实现逆袭，获得影响力和商业价值，在我看来，都绕不开——写作。&lt;br&gt;这年头，会说的人很多，能写的人太少。而在互联网时代，写作表达已经上升成为每一个职场人的“基础技能”，甚至“核心技能”。不会写作的人，正在失去职场竞争力，无法冲破上升的天花板。&lt;/p
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://www.huijia.love/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://www.huijia.love/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>成为更历害的人</title>
+    <link href="http://www.huijia.love/2019/01/15/2019/04_%E6%88%90%E4%B8%BA%E6%9B%B4%E5%8E%86%E5%AE%B3%E7%9A%84%E4%BA%BA/"/>
+    <id>http://www.huijia.love/2019/01/15/2019/04_成为更历害的人/</id>
+    <published>2019-01-15T14:27:25.000Z</published>
+    <updated>2019-01-15T14:34:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一、深刻认识到：永远没有彼岸，只有在路上。<br>我们要明白，在这个世界，终身学习不是一句用来作秀和晒优越的口号。在新技术、新商业不断迭代，而且迭代速度越来越快的今天，我们要花时间、花钱去投资自己，这样才能明白，不停思考，才是避免思想上患老年痴呆的良方。</p><p>第二、对于变通人来说，没有家庭背景，没有社会关系，没有美貌和身材，唯一有提升空间的，就是自己的心智和思维。改变命运之前，先改变对世界和自己的看法。拥抱新技术，就是拥抱新时代。</p><p>第三、写作。嗯，是的。相信自己，<strong>写作可以改变一切。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;第一、深刻认识到：永远没有彼岸，只有在路上。&lt;br&gt;我们要明白，在这个世界，终身学习不是一句用来作秀和晒优越的口号。在新技术、新商业不断迭代，而且迭代速度越来越快的今天，我们要花时间、花钱去投资自己，这样才能明白，不停思考，才是避免思想上患老年痴呆的良方。&lt;/p&gt;
+&lt;p&gt;第
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://www.huijia.love/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://www.huijia.love/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>业余时间赚钱的途径</title>
+    <link href="http://www.huijia.love/2019/01/12/2019/03_%E4%B8%9A%E4%BD%99%E6%97%B6%E9%97%B4%E8%B5%9A%E9%92%B1%E7%9A%84%E9%80%94%E5%BE%84/"/>
+    <id>http://www.huijia.love/2019/01/12/2019/03_业余时间赚钱的途径/</id>
+    <published>2019-01-12T15:26:50.000Z</published>
+    <updated>2019-01-13T15:23:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>以下的这些方法一定可以赚钱，但是前提是如果要在一个平台赚钱，首先要把平台规则搞清楚，至于网上的那些收费培训是没有必要参加的，自己用心比什么都强。</p><h4 id="1-做百度知道合伙人"><a href="#1-做百度知道合伙人" class="headerlink" title="1. 做百度知道合伙人"></a>1. 做百度知道合伙人</h4><p>打开百度搜索“百度知道合伙人”，然后入驻<br><img src="https://pic1.zhimg.com/v2-466cb8e3b5e5f71f3a6e2a61ce1e0c24_r.jpg" alt><br>这个工作也就是回答百度知道的问题，回答一篇给你3元钱，熟练之后，基本上10分钟就可以做一个回答。所以一个月赚个1000~2000还是可能的。<br>如果想赚得更多一点，你可以在入驻的时候选择团队，然后推广别人加入自己的团队，这样你的队员回答问题，你也会有收益。</p><h4 id="2-做自媒体"><a href="#2-做自媒体" class="headerlink" title="2. 做自媒体"></a>2. 做自媒体</h4><p>自媒体的平台很多，赚的比价多的是百度百家，头条号也可以，还有大鱼号，企鹅号，一点咨询，搜狐自媒体、网易自媒体等等。</p><p>每天可以写一篇文章，然后发表到各个自媒体平台，这样就都会有收益。 </p><p>强调一点，没有必要去参加那些自媒体培训，既然他们说自媒体那么赚钱，为什么还要来培训呢？答案只有一个，就是做自媒体没有培训你收学费赠得多。</p><p><strong>而我们只需要用心即可。比如你想写体育类的文章，那你就阅读200篇体育类的博文，归纳一下标题、字数、文章结构，这样一定会有收获。</strong></p><h4 id="3-知识付费"><a href="#3-知识付费" class="headerlink" title="3. 知识付费"></a>3. 知识付费</h4><p>同样是写文章，但是侧重点是不一样的，比如知乎、简书、豆瓣，这几个平台写文章不是按照阅读量给你算钱的，但是你的文章干货多，写得好就有人给你付费。</p><p>我看到过一个8万粉丝的简书作者，每篇文章的打赏都在2000以上。</p><p>知乎一万粉丝以上的大V，给别人点个赞是200越，你说这钱赚得容易不，仅仅需要点个赞。</p><h4 id="4-做淘宝"><a href="#4-做淘宝" class="headerlink" title="4. 做淘宝"></a>4. 做淘宝</h4><p>很多人以为现在做淘宝不赚钱了，其实都错了，淘宝最重要的是选品，要选择一个冷门类目，竞争很小、利润很大的产品比如舵鸟苖活体。<br><img src="https://pic3.zhimg.com/v2-173637f574ac31f05b888e6f0d418ada_r.jpg" alt></p><p>正规淘宝也就十个专家，而市场需求又大，所以很容易赚钱，兼职就可以。关于淘宝的文章，请看下文，看完一定会让大家脑洞大开。<br><a href="https://www.zhihu.com/question/21030919/answer/513484647" target="_blank" rel="noopener">一个人做淘宝需要多少技能？</a></p><h4 id="5-上传文档就可以赚钱"><a href="#5-上传文档就可以赚钱" class="headerlink" title="5. 上传文档就可以赚钱"></a>5. 上传文档就可以赚钱</h4><p>比如百度文库、豆丁网、360c图片馆。那上传什么呢？</p><p>上传教案、高中、初中、小学教育、说课稿、课件，这部分需求非常大。如果有认识的老师，能搞到课件最好，也可以自己修改一下刚上的。<br><img src="https://pic4.zhimg.com/v2-1e8c4a11d15b95f80e1f2d60ad1833cb_r.jpg" alt></p><p>比如上面的一个说课稿，收费就是5元，而且有上千人下载。</p><h4 id="6-如果你会摄影，会拍照片，你可以去卖照片赚钱。"><a href="#6-如果你会摄影，会拍照片，你可以去卖照片赚钱。" class="headerlink" title="6. 如果你会摄影，会拍照片，你可以去卖照片赚钱。"></a>6. 如果你会摄影，会拍照片，你可以去卖照片赚钱。</h4><p>可以推荐一些卖照片的网站:<br><a href="http://www.originoo.com/ws/p.index.php" target="_blank" rel="noopener">锐景创意</a><br><a href="https://www.quanjing.com/" target="_blank" rel="noopener">全景图片</a><br><a href="https://tc.ftsm-vip.com/" target="_blank" rel="noopener">图虫创意</a><br>美好景象、东方IC、中国图库、汇图、壹图、picpas、fotor、海洛创意。</p><h4 id="7-如果你会绘画、设计，你也可以在刚上赚钱"><a href="#7-如果你会绘画、设计，你也可以在刚上赚钱" class="headerlink" title="7. 如果你会绘画、设计，你也可以在刚上赚钱"></a>7. 如果你会绘画、设计，你也可以在刚上赚钱</h4><p>可以在微信表情开放平台申请成为表情制作作者，这个是非常赚钱的，有的会绘画的一年可以赠50多万，而且还是兼职。</p><p>也可以在昵图网、千图网等网上做一些设计赚钱，这些都是非常正规的，也是非常靠谱的。</p><h4 id="8-如果你会编程，也可以赚钱"><a href="#8-如果你会编程，也可以赚钱" class="headerlink" title="8. 如果你会编程，也可以赚钱"></a>8. 如果你会编程，也可以赚钱</h4><p>在程序员客栈、云沃客、解放号接任务赚钱，这些都是程序员远程工作平台，价格非常的高！</p><p><img src="https://pic4.zhimg.com/v2-e9f7c7d1d4e4463b903b89f7d51c7687_r.jpg" alt></p><p>比如上面这个每天的价格是800，而且还是远程工作！</p><h4 id="9-如果你会翻译，也可以赚钱"><a href="#9-如果你会翻译，也可以赚钱" class="headerlink" title="9. 如果你会翻译，也可以赚钱"></a>9. 如果你会翻译，也可以赚钱</h4><p>可以在有道翻译，快译等网站做翻译赚钱</p><p><img src="https://pic1.zhimg.com/v2-75f3a9a66a6f5e33252914236c7016ac_r.jpg" alt></p><h4 id="10-视频赚钱"><a href="#10-视频赚钱" class="headerlink" title="10. 视频赚钱"></a>10. 视频赚钱</h4><p>现在最火的就是抖音，快手也可以，但是别忘记还有优酷】腾讯视频、youtube(国外视频网站)</p><p>抖音粉丝起来后，就会有广告商来找你投广告，也可以连接到淘宝店卖货。</p><p>还可以出售，一般一个10万粉丝的抖单号可以卖1万多。</p><p>另外，现在还有很多人做 YouTube,我们知道去年很多人是把 YouTube的视频下载了上传到优酷赚钱，但是现在很多人把国内的视频下载了，上传到 YouTube也可以赚钱，而且赠的是美元。</p><h4 id="11-做威客"><a href="#11-做威客" class="headerlink" title="11. 做威客"></a>11. 做威客</h4><p>就是在猪八戒、时间财富、众人帮等平台去接任务赚钱，其中的众人帮是你啥技能也不需要，有手机就行，但是也比较累，比如转发个朋友图可以赚一毛，关注个公众号可以赠2毛。</p><h4 id="12-问答"><a href="#12-问答" class="headerlink" title="12. 问答"></a>12. 问答</h4><p>做悟空问答、芝麻问答也可以赚钱。</p><!--PC版--><div id="SOHUCS" sid="请将此处替换为配置SourceID的语句"></div><script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js"></script><script type="text/javascript">window.changyan.api.config({appid: 'cytzVhPgE',conf: 'prod_8bd7f12de9e89a0377b171df44ea99d6'});</script><!-- UY BEGIN --><div id="uyan_frame"></div><script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2129161"></script><!-- UY END -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;以下的这些方法一定可以赚钱，但是前提是如果要在一个平台赚钱，首先要把平台规则搞清楚，至于网上的那些收费培训是没有必要参加的，自己用心比什么都强。&lt;/p&gt;
+&lt;h4 id=&quot;1-做百度知道合伙人&quot;&gt;&lt;a href=&quot;#1-做百度知道合伙人&quot; class=&quot;headerlink&quot;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>亲情、爱情、装修、旧情</title>
+    <link href="http://www.huijia.love/2019/01/08/2019/02_%E4%BA%B2%E6%83%85%E3%80%81%E7%88%B1%E6%83%85%E3%80%81%E8%A3%85%E4%BF%AE%E3%80%81%E6%97%A7%E6%83%85/"/>
+    <id>http://www.huijia.love/2019/01/08/2019/02_亲情、爱情、装修、旧情/</id>
+    <published>2019-01-07T16:20:00.000Z</published>
+    <updated>2019-01-07T16:31:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>早上和她吃完早餐，然后一起出门，我去上班，她去青山按摩。我们出门比较晚，我上车的时候，已经9点16分了。到公司已经十点多了，问了下同事《音乐课件》的进度，还有修改意见，李良雄跟我讲视频播放器需要修改一下，添加视频滑块拖动的功能。我看了下，然后修改完了，然后再修改其它的问题。林威把他之前没有做完的问题给了我，我还没怎么看，其实我是不想做。<br>今天在公司没怎么做事，就修改了播放器的一个小功能，然后看了下Python的教程。中午吃完饭后给她爸爸打了个电话，故意问了下他，昨天和我表哥谈得怎么样了，是不让他做了，还是怎么处理的？他停顿了一会，然后问我，我表哥没给你打电话，我说没有。（其实是打了，我昨晚没接）他说我不知道你表哥和你是个么关系，昨天跟他讲了，也没跟我说一下，我说是我姨妈的儿子。他说昨天我表哥和他谈了一下，。。。</p><p>中午，爸爸给我打电话，问我这边是个什么情况，他明天和国成盛过来看一下情况，我说她滴爸爸和兵兵哥说了的，还是让他做，但是要到明年3月底才能做完。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;早上和她吃完早餐，然后一起出门，我去上班，她去青山按摩。我们出门比较晚，我上车的时候，已经9点16分了。到公司已经十点多了，问了下同事《音乐课件》的进度，还有修改意见，李良雄跟我讲视频播放器需要修改一下，添加视频滑块拖动的功能。我看了下，然后修改完了，然后再修改其它的问题。
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日志" scheme="http://www.huijia.love/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>又是装修的问题</title>
+    <link href="http://www.huijia.love/2019/01/06/2019/01_%E5%8F%88%E6%98%AF%E8%A3%85%E4%BF%AE%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>http://www.huijia.love/2019/01/06/2019/01_又是装修的问题/</id>
+    <published>2019-01-06T14:24:32.000Z</published>
+    <updated>2019-01-06T14:24:32.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日志</title>
+    <link href="http://www.huijia.love/2018/12/18/2018/2018_12_18_%E6%97%A5%E5%BF%97/"/>
+    <id>http://www.huijia.love/2018/12/18/2018/2018_12_18_日志/</id>
+    <published>2018-12-18T14:31:22.000Z</published>
+    <updated>2018-12-19T14:55:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天下午刘庆问我今天什么时候下班，我说六点多，她说让我把电脑带过去，她明天要在香格里拉开年会，顺便过来拿电脑。我想了会，说好。其实我电脑里的文件还没有清理，身边也没有大的硬盘。<br>今天早上出门的时候带上了电脑，然后去了公司，一大早就开始重装我的系统，由于电脑比较卡，有七年多了，当时买的时候还是2011年，东芝的。装了一早上，把系统装好了，然后装备给你里拷课件，拷的时候发现速度好慢，还没U盘拷得快，拷到中午12点半了，还没拷完。刘庆已经在楼下的永和里面等着我了。她2点开始开年会，担心她去晚了，就中止了传输，改天把文件用百度网盘的形式发给她。嗯，就这样。我就拿起电脑往包里装，然后下楼去找她了。<br>在楼下，看她在永和的一个餐位上坐着了，我看永和的人比较多，就说出云吃史，前面一条街都是吃的。然后我们就出去了。在往万松园的路上边走边聊了一些索事。我发现我俩都有选择困难症。也许是她怕我点太贵的店，我怕她嫌我去太贵的店，所以我们没有找还可以了的店吧。也不知道吃什么，因为这边的店我一家都没有去吃过。一直向前面走，走到这条街的尽头，然后又往回走，她看有一家牛肉面里面人还蛮多的，就说去这家吃吧，看里面人还挺多的。我说好。然后我们就去这家牛肉面馆点了一碗牛肉面，一碗牛肉粉，一杯豆浆和一杯红豆沙。然后找了个位置坐下。坐了一会发现还没有人来，她说要过去拿，我说别人会叫号的。我说先等会吧，等了会，人家还没叫号，我就过去拿了，过去才发现，其实是要自己把小条给配面员，然后服务员根据号码条上的要求出餐。我把两份都要成微辣的，我觉得还是不要吃太辣的为好。服务员一会就做好了，我端过去，她准备起身帮我拿的，我已经放在桌子上面了。然后开始吃了，幸好我要了两份水（豆浆和红豆沙），要不然我俩好被活活的辣死，这还叫微辣，好坑。<br>吃饭间谈了下最近的生活。她说她最近准备离职了，我说我也是。她问我为什么要离职，我没讲。其实我是想去做手术，要不然以后我真的不能生小孩了，那对我爸爸是怎样的一个打击，真是不能想象。她说她工作不顺心。<br>说黄浦说我老婆人还蛮好的，我说，黄浦不会看人，要不然她怎么会被一个女生骗成那样，跟他谈的同时还跟几个男生谈着。她说人家对感情比较投入。想想也是吧。<br>我说我对我老婆的一些行为很是受不了。氢屋子里搞得乱七八糟，也不收拾好，对长辈也不礼貌，真的好心累，感觉是要过不下去了。如果不是因为我爸爸年纪大了，我想我是不会和她结婚的。这日子怎么过。好烦。其实我还在意她谈了个朋友，谈了好多年，和别人什么都发生了，而且什么姿势都玩过，但是在我面前却不，其实我是接受不了了。不知道我为什么就这样看上了她。那么多的选择，为什么就选择了她，好累。<br>她说人家潘凡前段时间问她在哪可以办护照。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨天下午刘庆问我今天什么时候下班，我说六点多，她说让我把电脑带过去，她明天要在香格里拉开年会，顺便过来拿电脑。我想了会，说好。其实我电脑里的文件还没有清理，身边也没有大的硬盘。&lt;br&gt;今天早上出门的时候带上了电脑，然后去了公司，一大早就开始重装我的系统，由于电脑比较卡，有七
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日志" scheme="http://www.huijia.love/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>优秀人的五大特质</title>
+    <link href="http://www.huijia.love/2018/11/30/2018/2018_11_30%E4%BC%98%E7%A7%80%E4%BA%BA%E7%9A%84%E4%BA%94%E5%A4%A7%E7%89%B9%E8%B4%A8/"/>
+    <id>http://www.huijia.love/2018/11/30/2018/2018_11_30优秀人的五大特质/</id>
+    <published>2018-11-30T14:10:51.000Z</published>
+    <updated>2018-11-30T14:11:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一，有好奇心，能够主动学习新事物、新知识和新技能。今天不太谦虚，我把自己当做正例，然后再说一个负例。我有个前同事，理论基础挺好，但每次都是把自己的工作做完就下班了。他在这家公司呆了一年多，但对网上的新技术、新工具都不去了解。所以他非常依赖别人。当他想要实现一个功能，他就需要有人帮他做后半部分，因为他自己只能做前半部分——如果是有好奇心的人，前端、后端、算法都去掌握、至少有所了解的话，那么很多调试分析，自己一个人就可以做。</p><p>第二，对不确定性保持乐观。比方说头条最开始时，我跟大家讲：我们要做1亿的日启动次数。（当然，现在不止1亿了，我们现在的日启动次数已经差不多5亿。）很多人觉得，你这家小公司怎么可能做得到呢？大公司才能做得好。所以他就不敢努力去尝试。只有乐观的人会相信，会愿意去尝试。其实我加入酷讯时也是这样。那家公司当时想做下一代搜索引擎（最后也没有做成，只做了旅游的垂直搜索）。我不知道其他人怎么想的，我自己觉得很兴奋。我确实没有把握，也不知道怎么做，但当时就去学，就去看所有这些相关东西。我觉得最后也许不一定做成，或者没有完全做到，但这个过程也会很有帮助——只要你对事情的不确定性保持乐观，你会更愿意去尝试。</p><p>第三，不甘于平庸。我们在座各位，在同学中已经非常优秀了。但我想说，其实走向社会后，应该再设定更高的标准。我见到很多大学期间的同学、一起共事的同事中，有很多非常不错的人才，技术、成绩都比我好。但10年过去，很多人没有达到我的预期：我觉得他应该能做得很好，但他却没有做到。</p><p>很多人毕业后，目标设定就不高了。我回顾了一下，发现有同事加入银行IT部门：有的是毕业后就加入，有的是工作一段时间后加入。为什么我把这个跟“不甘于平庸”挂在一起呢？因为他们很多人加入，是为了快点解决北京户口，或者当时有些机构有分房补助，可以购买经济适用房。</p><p>后来我就在想一个问题，如果自己不甘于平庸，希望做得非常好的话，其实不会为这些东西担心：是否有北京户口，是否能买上一套经济适用房？</p><p>如果一个人一毕业，就把目标定在这儿：在北京市五环内买一个小两居、小三居，把精力都花在这上面，那么工作就会受到很大影响。他的行为会发生变化，不愿意冒风险。</p><p>比如我见到以前的朋友，他业余做一些兼职，获取一些收入。那些兼职其实没有什么技术含量，而且对本职工作有影响，既影响他的职业发展，也影响他的精神状态。我问他为什么，他说，哎，快点出钱付个首付。我觉得他看起来是赚了，其实是亏的。</p><p>不甘于平庸很重要。我说不平庸，并不是专门指薪酬要很高或者技术很好，而是你对自己的标准一定要高。也许你前两年变化得慢，但10年后再看，肯定会非常不一样。</p><p>第四，不傲娇，要能延迟满足感。我在这里举个反例：两个我印象比较深刻的年轻人，素质、技术都蛮不错，也都挺有特点。我当时是他们的主管，发现他们在工作中deliver的情况始终不好。他们觉得其他同事比他们做得差，其实不是：他们确实可以算作在当时招的同事里面TOP 20%，但误以为自己是TOP 1%。所以很多基础一点的工作，比如要做一个调试工具，他就不愿意做，或者需要跟同事配合的工作，他就配合得不好。</p><p>本来都是资质非常好的人才，人非常聪明、动手能力也强，但没有控制好自己的傲娇情绪。我觉得这和“不甘于平庸”不矛盾。“不甘于平庸”是你目标要设得很高，“不傲娇”是你对现状要踏实。</p><p>这2000个样本当中，我见到很多我原来觉得很好的，其实没有我想象中的发展好，我原来觉得不好的，其实超出我的预期。这里我也举个例子：</p><p>当时我们有个做产品的同事，也是应届生招进来，当时大家都觉得他不算特别聪明，就让他做一些比较辅助的工作，统计一下数据啊做一下用户反弹啊之类。但现在，他已经是一个十亿美金公司的副总裁。</p><p>后来我想想，他的特点就是肯去做，负责任，从来不推诿，只要他有机会承担的事情，他总尽可能地做好。每次也不算做得特别好，但我们总是给他反馈。他去了那家公司后，从一个用户量不到10万的边缘频道负责起来，把这个频道越做越好。由于这是一个边缘频道，没有配备完整的团队，所以他一个人承担了很多职责，也得到了很多锻炼。</p><p>第五，对重要的事情有判断力。选什么专业、选什么公司、选什么职业、选什么发展路径，自己要有判断力，不要被短期选择而左右。上面一些例子，也都涵盖了这一点。比如当时很多人愿意去外企，不愿意去新兴的公司。06、07年，很多师弟、师妹问我职业选择，我都建议他们去百度，不要去IBM、微软。但实际上，很多人都是出于短期考虑：外企可能名气大、薪酬高一点。</p><p>虽然这个道理，大家都听过很多遍。刚毕业时薪酬差三五千块，真的可以忽略不计。短期薪酬差别并不重要。但实际上，能摆脱这个、能有判断力的人，也不是特别多。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;第一，有好奇心，能够主动学习新事物、新知识和新技能。今天不太谦虚，我把自己当做正例，然后再说一个负例。我有个前同事，理论基础挺好，但每次都是把自己的工作做完就下班了。他在这家公司呆了一年多，但对网上的新技术、新工具都不去了解。所以他非常依赖别人。当他想要实现一个功能，他就需
+      
+    
+    </summary>
+    
+    
+    
+      <category term="随笔" scheme="http://www.huijia.love/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不知道她为什么和我结婚</title>
+    <link href="http://www.huijia.love/2018/10/07/2018/2018-10-07-%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E5%92%8C%E6%88%91%E7%BB%93%E5%A9%9A/"/>
+    <id>http://www.huijia.love/2018/10/07/2018/2018-10-07-不知道她为什么和我结婚/</id>
+    <published>2018-10-07T14:30:49.000Z</published>
+    <updated>2018-10-07T14:48:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>刚才让她看一下我们拍的照片，选一下哪张洗出来当作领结婚证的登记照。她说：你选一张吧。我选了一张还可以的。她又不愿意，说自己的那张没拍好。我让她重新拍，她又不愿意拍。<br>每个人都希望自己的照片拍得好看。我选的是自己衣服整洁的。他笑的有点过了，头有点上仰，露出了双下巴。不过笑得很开心。让她换一张，她重新拍，又不愿意。<br>好烦，到底选择和我结婚是为了什么？心好累。在北京的时候说不在乎我收入多少。现如今，我想换一个工资低的，轻松的工作，她确跟我讲什么生活质量。那么你为我们的关系做出了哪些努力呢。真的不知道她为什么和我结婚。要是妈妈还在的话，恐怕我会选择放弃吧，实在是太累了，感觉很没意思。父亲如今年龄比较大了，不想让他为我结婚的事而发悉。其实我想放弃，然后再重新找一个很容易，但是又不想辜负她。可是…哎！好烦…<br>觉得生活没什么意思了.没心情工作，没心情学习，对未来也失去了信心。感觉自己像一个空壳人，不知道为了什么而活。曾经和我去哪了？</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;刚才让她看一下我们拍的照片，选一下哪张洗出来当作领结婚证的登记照。她说：你选一张吧。我选了一张还可以的。她又不愿意，说自己的那张没拍好。我让她重新拍，她又不愿意拍。&lt;br&gt;每个人都希望自己的照片拍得好看。我选的是自己衣服整洁的。他笑的有点过了，头有点上仰，露出了双下巴。不过
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日志" scheme="http://www.huijia.love/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不知道加班是为了什么</title>
+    <link href="http://www.huijia.love/2018/09/22/2018/2018_09_22%E4%B8%8D%E7%9F%A5%E9%81%93%E5%8A%A0%E7%8F%AD%E6%98%AF%E4%B8%BA%E4%BA%86%E4%BB%80%E4%B9%88/"/>
+    <id>http://www.huijia.love/2018/09/22/2018/2018_09_22不知道加班是为了什么/</id>
+    <published>2018-09-21T16:34:15.000Z</published>
+    <updated>2018-09-21T16:56:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近一直在加班，基本上没怎么好好休息。有时候在想，加班的意义是什么？为了什么而去加班，是钱吗？是为了家人的生活变得更好吗？可是我妈妈不在了。我不知道赚钱是为了什么？有点力不从心。<br>女朋友也不为我着想，很自私。这样我更是觉得努力去工作没有什么意义。内心里好想放弃。不想这样下去，工作也是不是我想要的，老板想个傻子一样，每天在那里想尽办法给我减工次。对这些人好无语。每次回家后，虽然是女朋友在家里做的饭，但是不知道会做到什么时候？今天就在心里报怨，天天给我做饭，估计心里是不平衡的。时间久了心里肯定有怨气。<br>想想以后的矛盾会与日俱增，就想放弃！她和家人的关系能处到那种程度，以后和我的关系也好不到哪里去。只是现在是恋爱阶段。往后真的好难说。如果再年青5岁。我应该放弃了，也不会选择她吧。心里好累。<br>和一个初中文化水平的人还不如，也不讲理，对人和事没有很好的认识和辨别能力。总觉得家人给她钱是理所当然的，男人就应该赚钱养家，但是自己却不做出相应的努力，还得让我去做一些琐碎的事，那我怎么赚钱，总是把钱放在第一位，不知道她和我谈朋友，结婚是基于什么样的原因。我又不是她的第一个男人，她对我也没别人那么上心。当然，也是基于这个原因，我想放弃，感觉她被别人开发得很好，但在我面前却这么的装，好烦。越想櫖想放弃。但是爸爸快70岁了，我再不结婚，他的压力肯定很大。感觉自己很对不起爸爸，更对不起妈妈。但是找一个这样的老婆，感觉对不起自己。妈妈在的话，不知道会不会反对，应该会吧。这么懒的人，我也看不下去。哎！人活着真是累。所以我加班也没什么意义。好想放弃这份工作。<br>可是我们结婚的话没有房子，她爸爸说给一套还建房给她当嫁妆，但是装修却由我出钱，他们家的那一套也由我出钱。然后说看她值多少钱，就给多少钱的彩礼。装修就得20多万，再加上给彩礼，我哪里去变那么多钱…<br>对她家人我也是无语了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近一直在加班，基本上没怎么好好休息。有时候在想，加班的意义是什么？为了什么而去加班，是钱吗？是为了家人的生活变得更好吗？可是我妈妈不在了。我不知道赚钱是为了什么？有点力不从心。&lt;br&gt;女朋友也不为我着想，很自私。这样我更是觉得努力去工作没有什么意义。内心里好想放弃。不想这
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日志" scheme="http://www.huijia.love/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>终于吵架了</title>
+    <link href="http://www.huijia.love/2018/09/12/2018/2018_09_11_%E7%BB%88%E4%BA%8E%E5%90%B5%E6%9E%B6%E4%BA%86/"/>
+    <id>http://www.huijia.love/2018/09/12/2018/2018_09_11_终于吵架了/</id>
+    <published>2018-09-12T14:37:20.000Z</published>
+    <updated>2018-09-12T14:54:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们终于吵架了！我预料这是迟早的事，不过没想到会提前。其实心里挺开心的。这样彼此就可以不必掩饰自己了。主要是她可以不用掩饰自己了。我一直是真心面对她的。即使闹到分手的境地，我也无所谓。<br>我不喜欢脾气大的女生。只是没有跟她讲。我也不知道自己会忍受她多久，就像她一直在忍受我一样。<br>本来一天上班下来就很累，聊聊她让彼此开心一下，哎，算了。以后的矛盾会与日剧增。也不知道我们能走多远。<br>其实我很介意她以前的恋爱关系，不知道她毕业后谈了几个，但是被别人开发得这么好，让我有点接受不了。我不喜欢莫名的发脾气，不是每个人都会忍耐你的脾气。我也不喜欢对自己亲近的人发脾气，因为没必要。我也不会示弱去求各，大不了一分两散。老死不相往来。因为我已经累了，太累了。我不喜欢视金钱比别的更重要的女人。不想像托尔斯泰那样。<br>我比较倾向于自在的生活，不求大富大贵，只求此生安康，和家人在一起快快乐乐。一味的追求金钱，拖累自己的身体，健康，得不偿失。<br>不必去想不开心的事，一切向前看。做最好的自己即可。不必活在别人的眼光里。<br>为自己加油！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我们终于吵架了！我预料这是迟早的事，不过没想到会提前。其实心里挺开心的。这样彼此就可以不必掩饰自己了。主要是她可以不用掩饰自己了。我一直是真心面对她的。即使闹到分手的境地，我也无所谓。&lt;br&gt;我不喜欢脾气大的女生。只是没有跟她讲。我也不知道自己会忍受她多久，就像她一直在忍受
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日志" scheme="http://www.huijia.love/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第二天</title>
+    <link href="http://www.huijia.love/2018/07/12/%E7%90%A6/%E7%AC%AC%E4%BA%8C%E5%A4%A9/"/>
+    <id>http://www.huijia.love/2018/07/12/琦/第二天/</id>
+    <published>2018-07-12T14:52:13.000Z</published>
+    <updated>2018-04-13T08:27:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>早上刚到公司，倒了杯开水，坐下来看成都项目的资料。<br>十一点半的时候那个女生跟我发信息了。很礼貌。自我介绍了一下，说自己是培训机构的老师，还特地说不是公立学校的。其实我想说培训机构当然不属于公立学校了。<br>我问她是不是上午休息。因为一般正常上班的人哪有上班聊天的。<br>她回了个“嗯”。我说“挺好的”。<br>她说：也不好啊，下班晚，九点下班“。<br>一般来说上午休息，当然下班下班晚了，国有企业也没有早上休息，下午下班还早的呢。<br>我说”早上可以睡懒觉呀“。因为我就是早上经常睡懒觉，公司也没人敢管我。自由惯了，没办法。也许这样不好。<br>她说她不睡懒觉，原因是晚上有二节课。真奇怪，现在的年轻人都爱睡懒觉啊，今天认识了一个异类吗？嗯，有可能。还有就是晚上有两节课和早上睡懒觉不矛盾呀。我有点晕了。<br>我是一个被动的人，在不熟的情况下，也不知道聊些什么。然后她发问了。<br>“你叫什么”<br>她回答得比较慢，可以是比较矜持，一上来就问别人的名字。<br>然后回答我刚才的问题，“我不是特别，是上班比较尴尬”。好吧，其实我已经忘了这了。<br>“刘荣”我回答。<br>她很高兴的样子，我没说错什么呀。<br>“我们是一家的啊”她说。<br>哦，原来她找到了一个和她同姓的人。我说撒。<br>我不知道怎么回，就说我们是失散多年了，终于张到她了。<br>”兄妹吗？“她说，然后发了三个大哭的表情。<br>我不知道怎么回，就说让她猜。她怎么会认为失散多年的就一定是兄妹呢，难道没有恋人吗？由于什么原因之类的，也许我看电视小少吧。<br>她说她不找哥哥，我说我也不找妹妹呀。我有那么多堂妹，表妹。要那么多妹妹干嘛。<br>然后她发了三个握手的表情。意思是我们好像是志同道合的人。好吧。其实我是想找爱人，知心的那种。也不知道她是不是。先了解吧。<br>”你是做什么的呢“她问<br>”做展示设计的，展览展馆之类的“我回答，其实我具体做什么的也不清楚。展会也做，临展也做，博物馆、科技馆都有做，连农产品馆也有做。<br>”你也是艺术生吧“她问。<br>也是艺术生，意思是她就是参加过美术高考的人了。我说我不是呀，没学过画画。要是我学过画画，现在也汪会做这了，应该是做插画或者油画吧。上学的时候不知道可以学美术参加高考，要不我也学了。想想就有点遗憾。<br>她说她还以为我是美术高考生，她是美术高考生，没选设计类。我想美术高考生一般不会选设计类吧，因为他们自认识是学艺术的，设计和艺术还是有蛮大差别的。一个是艺术行为，一个是商业行为。<br>我说我不是美术高考生，当初不知道可以通过美术参加高考。要是我当初知道，可能会选择吧，我还是很喜欢美术的，而且也很细心，我觉得那在初级阶段是一个熟练活，而高考美术应该是培训熟练程序的阶段。中级应该是可以做些小创作吧，高级不知道。也许我猜的不对。<br>她说她不会使用软件。其实软件就是一个工具，就像她就笔在纸上画画一样，或者像我们用筷子吃饭一样。时间的累积，加上一点认真就会了。<br>我说我会呀，有空我教你。<br>她说，你当然会呀。她肯定在想，你是做那方面的，不做怎么工作，早就被开除了。我想想也是。<br>”你住哪里了“她问。<br>问我住哪想干嘛，不理解。我真是不会聊天，聊一会就短路了。<br>”不知道我们近不近呀？“<br>”光谷哪里“<br>追问，不懂。肯定不近吧，我住在地大那，有点便，感觉离哪都远。而且我现在在北京出差。如果想见个面吃个饭，估计也不方便。网络上认识的太虚幻，谁知道对方是干什么的，前几天在网上看新闻说，有人在网上被骗。我还是谨慎点为好。也没和网上认识的见过面，见面了也不知道怎么聊天。尴尬了。<br>我说我在北京出差，估计这话说出去没戏了。就算是骗子，也不会浪费时间去骗一个人在北京的。我想她不会搭理我了。<br>”你们经常出差吗“她问。<br>我说是呀，其实也不是。都把她当骗子了，我瞎说一下，也不算骗人吧。嗯<br>我说我住鲁麿路这边。<br>”我对那里蛮熟了“<br>”你是那边的人吗“<br>她对这里蛮熟的，难道她也住这附近。好吧，我能说什么呢。<br>我说不是呀，我是租的房子。我问她住哪，不会也住这边吧。<br>”你是哪里人呢“她问<br>”黄陂的“我回答<br>她说她现在住白沙洲。意思是之后不会住白沙洲那边了咯。<br>”明年回光谷“她说<br>我说白沙洲好远，路过一次那里。<br>”有车就不远“她说。<br>其实我觉得有车也远。因为我晕车，这事说出去也挺丢人的。<br>我发了个”呵呵“。因为看出来她对车还是有感的。不过说实话，有车确实方便。但是堵呀，我说。<br>她说她家家也住鲁麿路。怪不得她说对这边蛮熟的呀。<br>她说现在光谷在修，所以才会堵。意思是修完后，就不堵了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;早上刚到公司，倒了杯开水，坐下来看成都项目的资料。&lt;br&gt;十一点半的时候那个女生跟我发信息了。很礼貌。自我介绍了一下，说自己是培训机构的老师，还特地说不是公立学校的。其实我想说培训机构当然不属于公立学校了。&lt;br&gt;我问她是不是上午休息。因为一般正常上班的人哪有上班聊天的。&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="琦" scheme="http://www.huijia.love/categories/%E7%90%A6/"/>
+    
+    
+  </entry>
+  
+</feed>

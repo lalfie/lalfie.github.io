@@ -1,0 +1,80 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta name="generator" content="Hexo 3.9.0"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description" content="从心放飞|LROYLE|liurong|Alfie"><title>使用七牛为hexo存储图片资源 | LROYLE</title><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/normalize/8.0.1/normalize.min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/pure-min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/grids-responsive-min.css"><link rel="stylesheet" href="//lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//lib.baomitu.com/jquery/3.4.0/jquery.min.js"></script><link rel="icon" mask sizes="any" href="/favicon.ico"><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"><link rel="alternate" type="application/atom+xml" href="/atom.xml"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">使用七牛为hexo存储图片资源</h1><a id="logo" href="/.">LROYLE</a><p class="description">行善多积德，读书为修身！</p></div><div id="nav-menu"><a class="current" href="/."><i class="fa fa-home"> 首页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/favourite"><i class="fa fa-archive"> bookhome</i></a><a href="/favourite/time.html"><i class="fa fa-user"> 相册</i></a><a href="/about/"><i class="fa fa-user"> 关于</i></a><a href="/link/"><i class="fa fa-user"> 链接</i></a><a href="/atom.xml"><i class="fa fa-rss"> 订阅</i></a></div></div><div class="pure-g" id="layout"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title">使用七牛为hexo存储图片资源</h1><div class="post-meta">Apr 5, 2017<span> | </span><span class="category"><a href="/categories/hexo/">hexo</a></span></div><a class="disqus-comment-count" data-disqus-identifier="2017/04/05/2017/2017-04-05-use-qiniu-store-file-for-hexo/" href="/2017/04/05/2017/2017-04-05-use-qiniu-store-file-for-hexo/#disqus_thread"></a><div class="post-content"><h3 id="1-七牛是什么"><a href="#1-七牛是什么" class="headerlink" title="1.七牛是什么"></a>1.七牛是什么</h3><p>七牛是一个云存储服务商，注册并实名认之后，你将免费享有10GB存储空间，每月10GC下载流量，100万次GET请求，10万次PUT/DELETE请求。七牛的定位不是像百度云一样的网盘，也不是同坚果云一般的同步云，而是CDN，让你在浏览网页的时候最快的接收到页面中的图片、音频、视频等媒体上传到七牛，在博客中引用，也可以将站点需要加载的CSS、JS等文件上传到七牛，以加速网站。</p>
+<h3 id="2-为什么选择七牛"><a href="#2-为什么选择七牛" class="headerlink" title="2.为什么选择七牛"></a>2.为什么选择七牛</h3><ul>
+<li>与直接部署到站点相比<ol>
+<li>访问速度更快（特别是对比部署到github的情况）</li>
+<li>对个人用户而言空间和流量都十分阔绰。Gitcafe有512MB的总空间限制，Github虽没有找到类似的说明，但是在其上托管过多媒体资源也不是太合适的做法。而在七牛，你甚至可以通过邀请好友来增加每月下载流量（我的 <a href="https://portal.qiniu.com/signup?code=3lhwes4mdnln6" target="_blank" rel="noopener">邀请</a> 连接），每成功邀请一名朋友，将增加5GB的下载流量，最高上限可达40GB。</li>
+<li>如果你爱折腾，还可以玩出更多花样：<ul>
+<li>防盗链</li>
+<li>对图片、音频等在线处理，不必自己做重复工作。通过调用接口，七牛可以帮你；加水印、自定义裁剪区域、旋转、调整图片质量、转换格式。</li>
+<li>分析下载量等详细数据，挖掘用户行为。</li>
+</ul>
+</li>
+</ol>
+</li>
+<li>与其他上传站点相比：<ol>
+<li>更稳定：七牛毕竟是老牌服务商，数据的安全性和稳定性都比较有保证。如果上传到什么小网站，哪天发现图片都打不开才是人间惨剧。</li>
+<li>更灵活：配合 hexo-qiniu-sync 插件，就算是七牛以后更改了空间域名，也不用一篇一篇地去改外链地址，只要在配置文件中修改外链前缀即可。</li>
+<li>更方便：配合 hexo-qiniu-sync 插件，不必“上传-&gt;复制链接-&gt;引用外链”，直接按照本地路径引用，然后键入一条命令同步到七牛就好。会自动识别哪些是新增、修改的文件需要上传，哪些是原有的文件不需要改动，十分方便。</li>
+</ol>
+</li>
+</ul>
+<p>当然，七牛并非尽善尽美：</p>
+<ul>
+<li>在线文件管理不支持目录</li>
+<li>本地删除文件，云端不能同步删除文件</li>
+</ul>
+<p>尽管仍有欠缺，私以为七牛依旧是现在个人博客最佳资源储存服务商。<br>下面是怎么用七牛为 Hexo 存储文件的安装步骤。</p>
+</div><div class="tags"><a href="/tags/hexo/">hexo</a></div><div class="post-nav"><a class="pre" href="/2017/04/05/2017/2017-04-05-开始写作之前，你应该知道的7个步骤/">开始写作之前，你应该知道的7个步骤</a><a class="next" href="/2017/03/30/2017/2017-03-30-2017年上半年计划/">2017年上半年计划</a></div><div id="disqus_thread"><div class="btn_click_load"><button class="disqus_click_btn">阅读评论（请确保 Disqus 可以正常加载）</button></div><script type="text/javascript">var disqus_config = function () {
+    this.page.url = 'http://www.huijia.love/2017/04/05/2017/2017-04-05-use-qiniu-store-file-for-hexo/';
+    this.page.identifier = '2017/04/05/2017/2017-04-05-use-qiniu-store-file-for-hexo/';
+    this.page.title = '使用七牛为hexo存储图片资源';
+  };</script><script type="text/javascript" id="disqus-lazy-load-script">$.ajax({
+url: 'https://disqus.com/next/config.json',
+timeout: 2500,
+type: 'GET',
+success: function(){
+  var d = document;
+  var s = d.createElement('script');
+  s.src = '//lroyle.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', + new Date());
+  (d.head || d.body).appendChild(s);
+  $('.disqus_click_btn').css('display', 'none');
+},
+error: function() {
+  $('.disqus_click_btn').css('display', 'block');
+}
+});</script><script type="text/javascript" id="disqus-click-load">$('.btn_click_load').click(() => {  //click to load comments
+    (() => { // DON'T EDIT BELOW THIS LINE
+        var d = document;
+        var s = d.createElement('script');
+        s.src = '//lroyle.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', + new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+    $('.disqus_click_btn').css('display','none');
+});</script><script type="text/javascript" id="disqus-count-script">$(function() {
+     var xhr = new XMLHttpRequest();
+     xhr.open('GET', '//disqus.com/next/config.json', true);
+     xhr.timeout = 2500;
+     xhr.onreadystatechange = function () {
+       if (xhr.readyState === 4 && xhr.status === 200) {
+         $('.post-meta .post-comments-count').show();
+         var s = document.createElement('script');
+         s.id = 'dsq-count-scr';
+         s.src = 'https://lroyle.disqus.com/count.js';
+         s.async = true;
+         (document.head || document.body).appendChild(s);
+       }
+     };
+     xhr.ontimeout = function () { xhr.abort(); };
+     xhr.send(null);
+   });
+</script></div><div id="uyan_frame"></div><script type="text/javascript" src="//v2.uyan.cc/code/uyan.js?uid=2129261"></script><div id="lv-container" data-id="city" data-uid="MTAyMC8zNDg4OC8xMTQyNQ"><script>(function(d, s) {
+   var j, e = d.getElementsByTagName(s)[0];
+   if (typeof LivereTower === 'function') { return; }
+   j = d.createElement(s);
+   j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+   j.async = true;
+   e.parentNode.insertBefore(j, e);
+})(document, 'script');
+</script></div></div></div></div><div class="pure-u-1-4 hidden_mid_and_down"><div id="sidebar"><div class="widget"><form class="search-form" action="//www.google.com/search" method="get" accept-charset="utf-8" target="_blank"><input type="text" name="q" maxlength="20" placeholder="Search"><input type="hidden" name="sitesearch" value="http://www.huijia.love"></form></div><div class="widget"><form class="search-form" action="//www.baidu.com/baidu" method="get" accept-charset="utf-8" target="_blank"><input type="search" name="word" maxlength="20" placeholder="Search"><input type="hidden" name="si" value="http://www.huijia.love"><input name="tn" type="hidden" value="bds"><input name="cl" type="hidden" value="3"><input name="ct" type="hidden" value="2097152"><input name="s" type="hidden" value="on"></form></div><div class="widget"><div class="widget-title"><i class="fa fa-folder-o"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/CG/">CG</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Hexo/">Hexo</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/PS/">PS</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/PUA/">PUA</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/SS/">SS</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/UI/">UI</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/hexo/">hexo</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/书箱推荐/">书箱推荐</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/俄语/">俄语</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/唱歌/">唱歌</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/境外生活/">境外生活</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/学习/">学习</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/总结/">总结</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/情感/">情感</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/插画/">插画</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/摄影/">摄影</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/琦/">琦</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/练习/">练习</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/英语/">英语</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/设计/">设计</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/设计临摹/">设计临摹</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/读书笔记/">读书笔记</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/随笔/">随笔</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-star-o"> 标签</i></div><div class="tagcloud"><a href="/tags/工作学习/" style="font-size: 15px;">工作学习</a> <a href="/tags/hexo/" style="font-size: 15px;">hexo</a> <a href="/tags/flash/" style="font-size: 15px;">flash</a> <a href="/tags/写作/" style="font-size: 15px;">写作</a> <a href="/tags/Flash/" style="font-size: 15px;">Flash</a> <a href="/tags/PS/" style="font-size: 15px;">PS</a> <a href="/tags/PS基础/" style="font-size: 15px;">PS基础</a> <a href="/tags/色彩理论/" style="font-size: 15px;">色彩理论</a> <a href="/tags/随笔/" style="font-size: 15px;">随笔</a> <a href="/tags/学习/" style="font-size: 15px;">学习</a> <a href="/tags/Hexo/" style="font-size: 15px;">Hexo</a> <a href="/tags/情感/" style="font-size: 15px;">情感</a> <a href="/tags/生活/" style="font-size: 15px;">生活</a> <a href="/tags/阅读/" style="font-size: 15px;">阅读</a> <a href="/tags/练声/" style="font-size: 15px;">练声</a> <a href="/tags/CG/" style="font-size: 15px;">CG</a> <a href="/tags/UI/" style="font-size: 15px;">UI</a> <a href="/tags/稿费/" style="font-size: 15px;">稿费</a> <a href="/tags/日志/" style="font-size: 15px;">日志</a> <a href="/tags/每日一练/" style="font-size: 15px;">每日一练</a> <a href="/tags/前端/" style="font-size: 15px;">前端</a> <a href="/tags/版式/" style="font-size: 15px;">版式</a> <a href="/tags/鸡汤/" style="font-size: 15px;">鸡汤</a> <a href="/tags/VPN/" style="font-size: 15px;">VPN</a> <a href="/tags/婚姻/" style="font-size: 15px;">婚姻</a> <a href="/tags/自学/" style="font-size: 15px;">自学</a> <a href="/tags/unity/" style="font-size: 15px;">unity</a> <a href="/tags/设计素材/" style="font-size: 15px;">设计素材</a> <a href="/tags/自媒体/" style="font-size: 15px;">自媒体</a> <a href="/tags/Unity/" style="font-size: 15px;">Unity</a></div></div><div class="widget"><div class="widget-title"><i class="fa fa-file-o"> 最近文章</i></div><ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/10/07/2018/2018_12_20又荒废了一天/">又荒废了一天</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/15/2019/13_youtube上传视频的一些技巧/">youtube上传视频的一些技巧</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/12/2019/12_Unity中的脚本01/">Unity中的脚本</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/27/2019/11_Unity使用TUIO协议接入雷达/">Unity使用TUIO协议接入雷达</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/26/2019/10_图片素材网站/">图片素材网站</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/03/22/2019/09_不要逼我/">不要逼我</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/03/05/2019/08我退步了好多/">我退步了好多</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/02/24/2019/07_我看着她就烦/">我看着她就烦</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/01/29/2019/06_2019设计学习计划及安排/">2019设计学习计划及安排</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/01/15/2019/05_不会写作的你正在失去职场竞争力/">不会写作的你正在失去职场竞争力</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-comment-o"> 最近评论</i></div><script type="text/javascript" src="//lroyle.disqus.com/recent_comments_widget.js?num_items=5&amp;hide_avatars=1&amp;avatar_size=32&amp;excerpt_length=20&amp;hide_mods=1"></script></div><div class="widget"><div class="widget-title"><i class="fa fa-external-link"> 友情链接</i></div><ul></ul><a href="http://www.paoniu.love" title="修" target="_blank">修</a><ul></ul><a href="http://www.liurong.love" title="LIURONG" target="_blank">LIURONG</a><ul></ul><a href="http://hao.shejidaren.com/book.html" title="设计书箱推荐" target="_blank">设计书箱推荐</a><ul></ul><a href="https://www.ploopie.se/gallery/drawings" title="ART BY CAROLINE NYMAN" target="_blank">ART BY CAROLINE NYMAN</a><ul></ul><a href="http://www.deanwest.com/home" title="Dean West" target="_blank">Dean West</a><ul></ul><a href="http://fitzfitzpatrick.com/" title="Thomas Fitzpatrick" target="_blank">Thomas Fitzpatrick</a><ul></ul><a href="http://jonasmosesson.se/" title="Jonas Mosesson" target="_blank">Jonas Mosesson</a><ul></ul><a href="http://www.cssauthor.com/inspiration/" title="CSS Author" target="_blank">CSS Author</a><ul></ul><a href="https://handsomefrank.com/" title="Handsomefrank" target="_blank">Handsomefrank</a><ul></ul><a href="http://xiashu.github.io/" title="网址导行" target="_blank">网址导行</a><ul></ul><a href="http://www.f2enav.com/" title="前端-屌丝必备" target="_blank">前端-屌丝必备</a><ul></ul><a href="http://www.cidiancn.com/" title="生活词典" target="_blank">生活词典</a></div><iframe width="100%" height="550" class="share_self" frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=2&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=5479730675&verifier=68265719&colors=ffffff,ffffff,666666,0082cb,ecfbfd&dpc=1"></iframe></div></div><div class="pure-u-1 pure-u-md-3-4"><div id="footer">Copyright © 2019 <a href="/." rel="nofollow">LROYLE.</a> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a><a rel="nofollow" target="_blank" href="https://github.com/tufu9441/maupassant-hexo"> Theme</a> by<a rel="nofollow" target="_blank" href="https://github.com/pagecho"> Cho.</a></div></div></div><a class="show" id="rocket" href="#top"></a><script type="text/javascript" src="/js/totop.js?v=0.0.0" async></script><script type="text/javascript" src="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js" async></script><script type="text/javascript" src="/js/fancybox.js?v=0.0.0" async></script><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css"><script type="text/javascript" src="/js/codeblock-resizer.js?v=0.0.0"></script><script type="text/javascript" src="/js/smartresize.js?v=0.0.0"></script></div></body></html>
